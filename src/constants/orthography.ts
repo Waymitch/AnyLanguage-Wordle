@@ -44,7 +44,7 @@ export const ORTHOGRAPHY = [
   'ᐠ',
   '˙',
   'ᐣ' 
-]
+];
 
 if (CONFIG.normalization) {
   ORTHOGRAPHY.forEach(

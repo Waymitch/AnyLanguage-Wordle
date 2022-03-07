@@ -8,7 +8,7 @@ export const WORDS = [
   'ᒉᒉᒉᒉᒉ',
   'ᐁᐯᑌᑫᒉ',
   'ᐊᐸᑕᑲᒐ'  
-]
+];
 
 if (CONFIG.normalization) {
   WORDS.forEach((val, i) => (WORDS[i] = val.normalize(CONFIG.normalization)))

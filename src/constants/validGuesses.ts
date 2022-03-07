@@ -8,7 +8,7 @@ export const VALIDGUESSES = [
   'ᒉᒉᒉᒉᒉ',
   'ᐁᐯᑌᑫᒉ',
   'ᐊᐸᑕᑲᒐ'  
-]
+];
 
 if (CONFIG.normalization) {
   VALIDGUESSES.forEach(
