@@ -7,8 +7,7 @@ export const VALIDGUESSES = [
   'ᑫᑫᑫᑫᑫ',
   'ᒉᒉᒉᒉᒉ',
   'ᐁᐯᑌᑫᒉ',
-  'ᐊᐸᑕᑲᒐ',
-  'ᐅᐤᐧᑯᐠ',  
+  'ᐊᐸᑕᑲᒐ',  
 ]
 
 if (CONFIG.normalization) {

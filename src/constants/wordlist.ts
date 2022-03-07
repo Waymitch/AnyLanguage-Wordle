@@ -7,8 +7,7 @@ export const WORDS = [
   'ᑫᑫᑫᑫᑫ',
   'ᒉᒉᒉᒉᒉ',
   'ᐁᐯᑌᑫᒉ',
-  'ᐊᐸᑕᑲᒐ',
-  'ᐅᐤᐧᑯᐠ',  
+  'ᐊᐸᑕᑲᒐ',  
 ]
 
 if (CONFIG.normalization) {
