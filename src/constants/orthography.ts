@@ -43,7 +43,7 @@ export const ORTHOGRAPHY = [
   'X',
   'ᐠ',
   '˙',
-  'ᐣ',  
+  'ᐣ' 
 ]
 
 if (CONFIG.normalization) {
