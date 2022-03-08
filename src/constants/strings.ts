@@ -1,1 +1,1 @@
-export const WIN_MESSAGES = ['Hoobus goobus']
+export const WIN_MESSAGES = ['Good job!']
