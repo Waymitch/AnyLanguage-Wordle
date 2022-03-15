@@ -46,7 +46,7 @@ export const ORTHOGRAPHY = [
   'ᐡ',
   'ᐢ',
   'ᐠ',
-  '"',
+  'ᐦ',
   'ᐧ',
   'ᐤ' 
 ];
