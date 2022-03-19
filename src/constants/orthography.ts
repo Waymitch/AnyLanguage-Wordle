@@ -49,7 +49,8 @@ export const ORTHOGRAPHY = [
   'ᐦ',
   'ᑊ',
   'ᐧ',
-  'ᐤ' 
+  'ᐤ',
+  ' ' 
 ];
 
 if (CONFIG.normalization) {
